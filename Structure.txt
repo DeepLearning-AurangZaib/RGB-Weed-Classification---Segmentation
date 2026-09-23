@@ -1,0 +1,22 @@
+multispectral-weed-detection/
+│
+├── dataset/
+│   └── images
+│   └── labels
+│   └── labels-seg
+│   └── masks
+│
+├── notebooks/
+│   ├── classification.jpynb
+│   └── segmentation.jpynb
+│
+├── scripts/
+│   ├── Overlays Display, Mask Label Conversion, Compression, SAM Annotation.jpynb
+│   └── Data split (Train val) for YOLO.ipynb
+│
+├── results/
+│   ├── figures/
+│   └── tables/
+│
+├── README.md
+└── requirements.txt
